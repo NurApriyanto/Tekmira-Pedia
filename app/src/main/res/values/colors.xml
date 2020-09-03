@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DEB887</color>
+    <color name="colorPrimaryDark">#997950</color>
+    <color name="colorAccent">#FF1493</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="skyblue">#00BFFF</color>
+    <color name="almond">#FFEBCD</color>
+    <color name="wood">#DEB887</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="emerald">#2ECC71</color>
+
+</resources>

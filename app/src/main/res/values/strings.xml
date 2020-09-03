@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tekmirapedia</string>
+    <string name="favorite">Favorite</string>
+    <string name="kamus">Kamus</string>
+    <string name="ensiklopedia">Ensiklopedia</string>
+    <string name="myfavorite">My Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="aboutTekmira">About Tekmirapedia</string>
+    <string name="isitlah_bahasa_indonesia">Isitlah bahasa Indonesia : </string>
+    <string name="istilah_bahasa_inggris">Istilah bahasa Inggris : </string>
+    <string name="penjelasan">Penjelasan :</string>
+    <string name="copy_text">Salin Penjelasan</string>
+    <string name="produk_terkait">Produk terkait :</string>
+</resources>
